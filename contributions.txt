@@ -1,0 +1,23 @@
+Team members' contributions:
+
+Li Hao
+Data integrity check for menu-of-the-day information
+-Hash Calculation and Verification
+-Encryption of Hashes
+
+Ericia
+Implemented PGP (pretty good privacy) in system
+-create public and private keys for client and server
+-encrypt files (end_day sales and menu)
+
+Cedrick
+SSL/TLS Encryption for Secure Communication
+-generate SSL certificates
+-encryption for data transmission
+
+AK
+Strengthening Non-Repudiation in Secure Data Transfers
+-implemented digital signatures
+-RSA key generation 
+-signature verification algorithm
+-Consolidate all the codes
